@@ -1,1 +1,1 @@
-# physics-calculator-in-python
+The Physics Calculator is a command-line tool for basic physics calculations. It can compute the velocity of an object using distance and time, and calculate mass based on force and acceleration. Users select an option from a menu to perform these calculations. Results are displayed in meters per second (m/s) for velocity and kilograms (kg) for mass. The tool is straightforward and helpful for quick physics calculations.
